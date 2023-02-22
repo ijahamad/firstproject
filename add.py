@@ -10,3 +10,6 @@ print(a-b)
 print(a/b)
 
 print(a%b)
+
+c=3
+print(c)
