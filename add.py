@@ -15,3 +15,5 @@ c=3
 print(c)
 print(c+a)
 print(c-a)
+a=2
+print(a)
